@@ -1,0 +1,41 @@
+header {
+    background: #808080;
+    text-align: center;
+    background: #808080;
+  }
+  
+    body {
+    background-color: white;
+    font-family: Times, Helvetica, sans-serif;
+    margin: 0;
+    line-height: 1.5;
+    width: 50%:
+  }
+  
+  .box1 {
+    text-align: center;
+    padding: 60px 0px 60px 0px;
+    background: blue;
+    width: 50%;
+    Float: left;
+   
+  }
+  
+  
+  .box2 {
+    text-align: center;
+    padding: 60px 0px 60px 0px;
+    background: red;
+    width: 25%;
+    float: right;
+  }
+  
+  footer {
+    margin: 60px 0px 60px 0px;
+    text-align: center;
+    background: green;
+    color: black;
+     position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
